@@ -1,1 +1,1 @@
-FROM registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.1.1
+FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller
